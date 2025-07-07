@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+
+=======
+>>>>>>> 64f5485 (java_fundamentals)
 package java_fundamentals;
 import java.util.*;
 public class Question19 {
@@ -19,4 +23,8 @@ public class Question19 {
         	 System.out.println("not a palindrome");
          }
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 64f5485 (java_fundamentals)

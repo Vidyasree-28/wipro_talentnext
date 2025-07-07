@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+
+=======
+>>>>>>> 64f5485 (java_fundamentals)
 package java_fundamentals;
 import java.util.*;
 public class question12 {
@@ -54,7 +58,14 @@ public class question12 {
 			break;
 		
 		}
+<<<<<<< HEAD
+	}
+}
+
+	
+=======
 
 	}
 
 }
+>>>>>>> 64f5485 (java_fundamentals)

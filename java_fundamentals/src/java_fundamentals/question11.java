@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+
+=======
+>>>>>>> 64f5485 (java_fundamentals)
 package java_fundamentals;
 import java.util.*;
 public class question11 {
@@ -28,5 +32,11 @@ public static void main(String[] args) {
 	
 	
 	}
+<<<<<<< HEAD
+
 }
 }
+=======
+}
+}
+>>>>>>> 64f5485 (java_fundamentals)

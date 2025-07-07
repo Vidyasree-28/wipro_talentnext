@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+
+=======
+>>>>>>> 64f5485 (java_fundamentals)
 package java_fundamentals;
 import java.util.*;
 public class question18 {
@@ -17,3 +21,7 @@ public class question18 {
 	    }
 	}
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> 64f5485 (java_fundamentals)

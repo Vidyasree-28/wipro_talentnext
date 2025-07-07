@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+
+=======
+>>>>>>> 64f5485 (java_fundamentals)
 package java_fundamentals;
 
 import java.util.Scanner;
@@ -26,3 +30,7 @@ public static boolean isPrime(int n) {
 	return true;
 }
 }
+<<<<<<< HEAD
+
+=======
+>>>>>>> 64f5485 (java_fundamentals)
