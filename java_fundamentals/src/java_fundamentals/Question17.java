@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 64f5485 (java_fundamentals)
 package java_fundamentals;
 import java.util.*;
 public class Question17 {
@@ -17,7 +14,3 @@ public static void main(String[] args) {
 	System.out.println("sum of digits "+a+ " is: "+sum);
 }
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> 64f5485 (java_fundamentals)
